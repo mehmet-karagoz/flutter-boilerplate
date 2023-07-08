@@ -35,6 +35,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request.
 
+Please make sure to follow our [Contributing Guidelines](CONTRIBUTING.md) and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a respectful and inclusive community.
+
 ## Support
 
 If you find this project helpful and would like to support its development, here are a few ways you can contribute:
