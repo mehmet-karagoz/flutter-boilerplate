@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../../components/floating_custom_button.dart';
 import '../../services/product_service/providers/product_provider.dart';
 
 class ProductsPage extends StatelessWidget {
@@ -37,13 +38,7 @@ class ProductsPage extends StatelessWidget {
           }
         },
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          // Call the fetchProducts method on the provider to load the data
-          Provider.of<ProductProvider>(context, listen: false).fetchProducts();
-        },
-        child: const Icon(Icons.refresh),
-      ),
+      floatingActionButton: const FloatingCustomButton(),
     );
   }
 }
