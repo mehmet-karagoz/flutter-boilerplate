@@ -8,6 +8,7 @@
 A comprehensive Flutter template showcasing best practices, including pre-built pages, Provider integration, and HTTP handling, enabling developers to kickstart their Flutter projects with ease.
 
 ![Metrics](screenshots/image_2023-07-15_152022854.png)
+![CodeHealth](screenshots/image_2023-07-15_152518831.png)
 
 ## Getting Started
 
