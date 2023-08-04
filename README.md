@@ -9,6 +9,8 @@ A comprehensive Flutter template showcasing best practices, including pre-built 
 
 > **Note:** This project is still under development.
 
+<a href="https://www.buymeacoffee.com/mehmetkaragozdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mehmetkaragozdev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ![Metrics](screenshots/image_2023-07-15_152022854.png)
 ![CodeHealth](screenshots/image_2023-07-15_152518831.png)
 
